@@ -22,13 +22,7 @@ Supports:
 
 ## Support this project!
 
-This project is free and will always be.
-
-If you like it you can support it by making a donation!
-
-[![donate](https://user-images.githubusercontent.com/30294218/61724877-16fa7a80-ad6f-11e9-80de-9771e0b820ae.png)](https://paypal.me/yaapu)
-
-
+This project is free 
 OpenTX/EdgeTX Color LCD 480x272
 
 ![image](https://user-images.githubusercontent.com/30294218/198382377-cb48032f-ea5c-4f8d-aa12-f592c1e09358.png)
