@@ -2,7 +2,7 @@
 -- A FRSKY SPort/FPort/FPort2 and TBS CRSF telemetry script for the Taranis class radios
 -- based on ArduPilot's passthrough telemetry protocol
 --
--- Author: Alessandro Apostoli, https://github.com/yaapu
+-- Author: ARYA mgc, https://github.com/ARYA-mgc
 --
 -- This program is free software; you can redistribute it and/or modify
 -- it under the terms of the GNU General Public License as published by
