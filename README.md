@@ -18,7 +18,7 @@ Supports:
 **Downloading**
 - **the latest versions are downloadable from the [clone/download](https://github.com/yaapu/FrskyTelemetryScript/archive/master.zip) button of the [master branch](https://github.com/yaapu/FrskyTelemetryScript/tree/master)** 
 
-## Support this project!
+## Supported Display Targets
 
 This project is free 
 OpenTX/EdgeTX Color LCD 480x272
