@@ -1,9 +1,7 @@
 
 # Yaapu Telemetry Script and Widget
 
-### please read the [wiki](https://github.com/yaapu/FrskyTelemetryScript/wiki) for more info
-
-This is the home of the Yaapu Telemetry project, an [ArduPilot](http://ardupilot.org/ardupilot/index.html) [LUA](https://www.lua.org/about.html) telemetry script and widget for radios running [OpenTX](https://www.open-tx.org/), [EdgeTX](http://www.edgetx.org) and [Ethos](https://ethos.frsky-rc.com/)
+This is the home of the Arya and Yaapu  Telemetry project, an [ArduPilot](http://ardupilot.org/ardupilot/index.html) [LUA](https://www.lua.org/about.html) telemetry script and widget for radios running [OpenTX](https://www.open-tx.org/), [EdgeTX](http://www.edgetx.org) and [Ethos](https://ethos.frsky-rc.com/)
 
 *Note: it requires Ardupilot, i.e. it does not work with INAV, betaflight or any other flight stack different from Ardupilot*
 
