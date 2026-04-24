@@ -69,5 +69,4 @@ Ethos Color LCD 800x480 (X20)
 
 ![Ethos X20](https://user-images.githubusercontent.com/30294218/194421598-be8c3dbd-9ac4-494a-bad9-9bd668f105ce.png)
 
-![image](https://github.com/ARYA-mgc/FrskyTelemetryScript/assets/30294218/b47f8273-bddb-42c6-91fc-5a732e67c27a)
 
