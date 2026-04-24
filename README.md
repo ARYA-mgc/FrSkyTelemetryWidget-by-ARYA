@@ -6,26 +6,6 @@ This is the home of the ARYA MGC Telemetry project, an [ArduPilot](http://ardupi
 
 *Note: it requires Ardupilot, i.e. it does not work with INAV, betaflight or any other flight stack different from Ardupilot*
 
-Supports:
- - [OpenTX](https://www.open-tx.org) 2.3.8 or later use [this](https://github.com/ARYA-mgc/FrskyTelemetryScript/archive/refs/tags/etx-otx-lua52.zip)
- - [EdgeTX](http://www.edgetx.org) up to version 2.10 use [this](https://github.com/ARYA-mgc/FrskyTelemetryScript/archive/refs/tags/etx-otx-lua52.zip)
- - [EdgeTX](http://www.edgetx.org) version 2.11 or later use [latest](https://github.com/ARYA-mgc/FrskyTelemetryScript/archive/master.zip)
- - [Ethos](https://ethos.frsky-rc.com/) 1.4 or later, download widget [here](https://github.com/ARYA-mgc/FrskyTelemetryScript/tree/master/ETHOS) 
- - FRSKY S.Port (setup info [here](https://ardupilot.org/copter/docs/common-connecting-sport-fport.html))
- - TBS Crossfire (setup info [here](https://github.com/ARYA-mgc/FrskyTelemetryScript/wiki/Passthrough-over-CRSF-and-ExpressLRS))
- - [ExpressLRS](https://www.expresslrs.org/) (setup info [here](https://github.com/ARYA-mgc/FrskyTelemetryScript/wiki/Passthrough-over-CRSF-and-ExpressLRS))
- - [MavToPT](https://github.com/zs6buj/MavlinkToPassthru) project
-
-**Downloading**
-- **the latest versions are downloadable from the [clone/download](https://github.com/ARYA-mgc/FrskyTelemetryScript/archive/master.zip) button of the [master branch](https://github.com/ARYA-mgc/FrskyTelemetryScript/tree/master)** 
-
-## Support this project!
-
-This project is free and will always be.
-
-If you like it you can support it by making a donation!
-
-[![donate](https://user-images.githubusercontent.com/30294218/61724877-16fa7a80-ad6f-11e9-80de-9771e0b820ae.png)](https://paypal.me/ARYA-mgc)
 
 ## Supported Display Targets
 
